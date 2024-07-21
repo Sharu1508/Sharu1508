@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Sharumathi Kumaresan!</h1>
+<h1 align="center">Hi there👋, thanks for stopping by!!</h1>
 - 🔭 I’m currently working on End to End Testing for an E-commerce application.(https://github.com/Sharu1508/MyStoreProject)
 
 - 🌱 I’m currently learning **Docker**
