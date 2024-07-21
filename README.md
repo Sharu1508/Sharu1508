@@ -5,7 +5,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sharumathi-kumaresan-78835a239/](https://www.linkedin.com/in/sharumathi-kumaresan-78835a239/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
