@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sharumathi-kumaresan-78835a239/](https://www.linkedin.com/in/sharumathi-kumaresan-78835a239/)
-
 <p align="left">
 </p>
 
