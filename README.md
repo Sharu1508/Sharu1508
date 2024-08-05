@@ -2,6 +2,8 @@
 
 <p align="left">- 🔭 I’m currently working on End to End Testing for an E-commerce application <a href="https://github.com/Sharu1508/MyStoreProject">MyStoreProject</a></p>
 
+<p align="left">- 🌱 I’m currently exploring <strong>Appium Mobile Testing</strong></p>
+
 <p align="left">- ⚡ Fun fact: 6 hours of debugging saves 5 minutes of reading documentation</p>
 
 
