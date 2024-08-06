@@ -4,7 +4,7 @@
 
 <p align="left">- 🌱 I’m currently exploring <strong>Appium Mobile Testing</strong></p>
 
-<p align="left">- ⚡ Fun fact: 6 hours of debugging saves 5 minutes of reading documentation</p>
+<p align="left">- ⚡ Fun fact: 6 hours of debugging saves 5 minutes of reading documentation!!😅 </p>
 
 
 
